@@ -1,4 +1,5 @@
 # Laptop Request using ServiceNow
 
 ## Project Documentation Video
-https://github.com
+
+<video src="https://githubusercontent.com" controls width="100%"></video>
